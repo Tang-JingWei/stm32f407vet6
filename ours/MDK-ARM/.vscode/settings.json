@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.sql": "sql",
+    "led.h": "c",
+    "servo.h": "c",
+    "main.h": "c"
+  }
+}
